@@ -97,10 +97,12 @@ I enjoy turning ideas into real-world solutions through programming and data.
 
 ---
 
-## 🌐 Contato | Contact  
+## 📫 Conecte-se Comigo | Connect With Me
 
 <p align="center">
-  📧 andriennycavalcanti@gmail.com  
+  📧 <a href="mailto:andriennycavalcanti@gmail.com">andriennycavalcanti@gmail.com</a><br>
+  💼 <a href="https://www.linkedin.com/in/andriennycavalcanti">LinkedIn</a><br>
+  💻 <a href="https://github.com/andrienny-cavalcanti">GitHub</a>
 </p>
 
 ---
